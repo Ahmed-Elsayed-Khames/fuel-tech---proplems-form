@@ -65,10 +65,6 @@
         transition:  0.3s ease;
     }
 
-    .checkbox-group label:hover {
-        background: #3b3e4d;
-    }
-
     input[type="checkbox"] {
         margin-right: 8px;
         cursor: pointer;
